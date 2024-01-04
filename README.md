@@ -22,13 +22,14 @@ This project is a fork of the [P4wnP1_ALOA_OLED_MENU_V2](https://github.com/bebo
 - Login to the P4wnP1 ALOHA via web interface at http://172.16.0.1:8000/ and go to the "WIFI SETTINGS" tab.
 - You will need to connect to your WIFI network as "Station (Client)" mode for the installation to work.
 
-````bash
 Then run the following commands:
 
 ```bash
-git clone
+git clone https://github.com/NightRang3r/P4wnP1_ALOA_LCD_MENU.git
 cd P4wnP1_ALOA_LCD_MENU
 ./install.sh
+
+```
 
 ### Compatibility
 
